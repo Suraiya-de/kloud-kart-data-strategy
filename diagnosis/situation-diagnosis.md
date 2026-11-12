@@ -38,3 +38,9 @@ Evidence: Nana manually rebuilds Monday reporting.
 Why it matters: Reporting quality depends on manual intervention rather than repeatable processes.
 Data Quality Dimension: Accuracy, Completeness, Consistency
 Cost Category: Wasted Labour
+
+Risk Ranking
+1st Priority: Production database being used for reporting(reason: active impact on revenue)
+2nd Priority: Act 843 compliance exposure(reason: existing complaint + legal obligations)
+3rd Priority: No trusted reporting source(reason: board lacks confidence in numbers)
+4th Priority: Manual spreadsheet workflows(reason: Operation inefficiency)
