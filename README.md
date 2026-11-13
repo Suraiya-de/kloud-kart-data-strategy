@@ -68,8 +68,3 @@ The proposed strategy prioritises:
 - Using daily scheduled refreshes for ordinary reporting while keeping operational inventory live.
 - Building a foundation for future business growth without introducing unnecessary technology or operational complexity.
 
-## Current Focus
-
-Finalising Architecture Decision Records to ensure that each decision is supported by the situation diagnosis, executive recommendation,implementation roadmap and board presentation.
-
-The next priority is to develop and document an improvement beyond the original brief, demonstrating additional practical value to the Kloud Kart data strategy engagement.
