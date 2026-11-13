@@ -43,20 +43,6 @@ Kloud-Kart-Data-Strategy/
 └── README.md
 ```
 
-## Current Status
-
-**Work in Progress**
-
-The situation diagnosis, architecture recommendation, and 12-month implementation roadmap have been prepared.
-
-Four Architecture Decision Records have also been drafted to document the key decisions supporting the proposed strategy, the alternatives considered, and the expected consequences.
-
-These decisions remain proposed pending review and approval by the appropriate Kloud Kart decision-makers.
-
-The board presentation has been prepared to communicate the business challenges, recommended strategic direction, implementation priorities, expected outcomes, and areas requiring further validation.
-
-The remaining delivarable is the development of an improvement beyond the original brief.
-
 ## Strategic Direction
 
 The proposed strategy prioritises:
