@@ -13,8 +13,8 @@ The objective is to identify the company's significant operational, reporting, g
 | Situation Diagnosis | Completed |
 | Architecture Recommendation | Completed |
 | 12-Month Implementation Roadmap | Completed |
-| Architecture Decision Records (ADRs) | Prepared — pending review |
-| Board Presentation | Pending |
+| Architecture Decision Records (ADRs) | Completed |
+| Board Presentation | Prepared - pending review |
 | Improvement Beyond the Brief | Pending |
 
 ## Repository Structure
@@ -36,6 +36,7 @@ Kloud-Kart-Data-Strategy/
 │   └── ADR-004-customer-data-governance.md
 │
 ├── presentation/
+│   └── kloud-kart-board-presentation.pptx
 │
 ├── appendix/
 │
@@ -52,6 +53,10 @@ Four Architecture Decision Records have also been drafted to document the key de
 
 These decisions remain proposed pending review and approval by the appropriate Kloud Kart decision-makers.
 
+The board presentation has been prepared to communicate the business challenges, recommended strategic direction, implementation priorities, expected outcomes, and areas requiring further validation.
+
+The remaining delivarable is the development of an improvement beyond the original brief.
+
 ## Strategic Direction
 
 The proposed strategy prioritises:
@@ -65,6 +70,6 @@ The proposed strategy prioritises:
 
 ## Current Focus
 
-Reviewing and refining the Architecture Decision Records to ensure that each decision is supported by the situation diagnosis, executive recommendation, and implementation roadmap.
+Finalising Architecture Decision Records to ensure that each decision is supported by the situation diagnosis, executive recommendation,implementation roadmap and board presentation.
 
-The next stages are the board presentation and the development of an improvement beyond the original brief.
+The next priority is to develop and document an improvement beyond the original brief, demonstrating additional practical value to the Kloud Kart data strategy engagement.
